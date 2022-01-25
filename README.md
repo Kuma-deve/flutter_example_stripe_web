@@ -2,6 +2,7 @@
 
 ## 使用方法
 * [Stripeへの登録](https://stripe.com/jp)
+
 以下、lib/stripe_checkout.dartに記入
 * apiKeyのところに自分のapikeyを記入
 * priceのところにStripeのダッシュボードで作ったpriceIdを記入
